@@ -1,1 +1,1 @@
-# BookShop-Inventiry-System
+# BookShop-Inventory-System
